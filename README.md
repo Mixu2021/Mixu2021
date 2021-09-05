@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <img align="left" alt="Mixu2021 Github Statistics" src="https://github-readme-stats-mixu2021.vercel.app/api?username=Mixu2021/show_icons=true&hide_border=true" />
+  <img align="left" alt="Mixu2021 Github Statistics" src="https://github-readme-stats-mixu2021.vercel.app/api?username=Mixu2021&show_icons=true&hide_border=true" />
 </details
