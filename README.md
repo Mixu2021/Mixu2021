@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats-mixu2021.vercel.app/api/top-langs/?username=Mixu2021&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-mixu2021.vercel.app/api/top-langs/?username=Mixu2021&layout=compact&theme=github_dark&hide_border=true&exclude_repo=FiveM-DarkSide,FiveM-Everyday" />
 <img src="https://github-readme-stats-mixu2021.vercel.app/api?username=Mixu2021&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
