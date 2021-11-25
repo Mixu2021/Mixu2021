@@ -1,2 +1,2 @@
-<img src="https://github-readme-stats-mixu2021.vercel.app/api/top-langs?username=Mixu2021&count_private=true&layout=compact&theme=github_dark&hide_border=true&exclude_repo=FiveM-DarkSide,FiveM-Everyday,FiveM-NeutralCity,github-readme-stats,txAdmin,p_blackmarket,arch-.config&langs_count=10" /><br>
-<img src="https://github-readme-stats-mixu2021.vercel.app/api?username=Mixu2021&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true">
+<img src="https://github-readme-stats-mixu2021.vercel.app/api/top-langs?username=NotMixu&count_private=true&layout=compact&theme=github_dark&hide_border=true&exclude_repo=FiveM-DarkSide,FiveM-Everyday,FiveM-NeutralCity,github-readme-stats,txAdmin,p_blackmarket,arch-.config&langs_count=10" /><br>
+<img src="https://github-readme-stats-mixu2021.vercel.app/api?username=NotMixu&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true">
